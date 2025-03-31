@@ -16,5 +16,8 @@
     "url": "https://github.com/Aporo230/your-task/issues"
   },
   "homepage": "https://github.com/Aporo230/your-task#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
 }
