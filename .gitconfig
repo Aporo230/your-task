@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\umebo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[safe]
+	directory = C:/Apps
+[user]
+	name = Aporo230
+	email = 12umeboshi@gmail.com
